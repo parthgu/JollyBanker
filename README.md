@@ -41,7 +41,25 @@ H 1234  Display the history of all transactions of all accounts for client 1234 
 H 12344 Display the history for all transactions on the 500 Index Fund for client 1234 <br>
 O Bowden Charles 6537 Open an account for client Charles Bowden.  Use account id 6537 <br>
 
-## Installation 
+## Installation and Setup
+
+This section covers the instructions for installing and using this program.
+
+1. Download the 'Lab_5_TheTellers.zip' folder from the Canvas assignment page.
+
+2. Extract the folder.
+
+3. Open the project in Visual Studio Code.
+
+4. Include any input files for transaction reading prior to running The Jolly Banker.
+
+5. Enter the following in the VSC terminal to execute the program. 
+```
+./JollyBanker [Insert Input file name here].txt
+```
+6. View the output in the terminal to see results.
+
+![image](https://user-images.githubusercontent.com/114828394/207221675-ac63bd1e-6b10-4ef8-a2fb-eb3152568b2a.png)
 
 
 
